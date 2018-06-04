@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vendors>
-    <vendor name="Xiaomi">
+    <vendor name="Xiaomi Hack">
         <model name="custom Application Layer" defaultPort="80" defaultRtspPort="8554">
             <request name="Snap">/cgi-bin/currentpic.cgi</request>
             <request name="RTSP">/unicast</request>
